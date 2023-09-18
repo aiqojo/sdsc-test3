@@ -1,6 +1,6 @@
 print('hello world')
 
-print('ciao!')
+print('hola!')
 
 print(2+2)
 
